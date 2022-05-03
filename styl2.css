@@ -1,0 +1,64 @@
+*{
+    font-family: Helvetica;
+}
+
+.baner_lewy, .baner_prawy{
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 25%;
+    height: 80px;
+    float: left;
+    
+}
+
+.baner_srodkowy{
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 50%;
+    height: 80px;
+    text-align: center;
+    float: left;
+    
+    
+}
+.blok_glowny{
+    background-color: rgb(224, 255, 255);
+    padding: 40px;
+    clear: both;
+    
+    
+}
+
+.blok_lewy, .blok_prawy{
+    background-color: rgb(70, 130, 180);
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    
+    
+}
+
+.blok_stopki{
+    background-color: rgb(224, 255, 255);
+    clear: both;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid blue;
+    width: 100%;
+    text-align: center;
+    
+    
+}
+tr{
+    border: 1px solid blue;
+}
+th{
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+}
+td{
+    border: 1px solid blue;
+}
